@@ -1,0 +1,15 @@
+
+.image_container{
+  display: flex;
+  width: 150px;
+  height: 200px;
+  gap: 90px;
+  position: absolute;
+  top: 200px;
+  margin:50px;
+
+}
+.image_container img{
+  
+  box-shadow: 1px 1px 40px rgb(255, 255, 255);
+}
